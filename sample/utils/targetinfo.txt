@@ -1,0 +1,29 @@
+doc_id:文件夹名称
+case_no:执行案号,案号
+execution_applicant:申请执行人
+executed_person:被执行人
+judgment_no: 裁判文书号
+evaluation_agency: 评估机构,询价平台
+evaluation_time: 评估时间,价值时点
+title:标的名称
+owner:产权人,权属人,权利人
+certificate_number:产权证号,权利证号,不动产权证号,登记字号,权利号码,房产登记号
+housing_estate: 小区名称,大厦名称
+developers: 开发商
+realty_management_corp: 物业管理公司,物业公司
+real_estate_use: 用途,实际用途,房屋用途,房屋性质
+building_structure: 建筑结构
+build_area: 面积,建筑面积
+elevator: 电梯情况
+renovation: 装修情况
+building_age: 楼龄,建造时间,建成年份
+arrears: 其他费用情况
+seizure: 查封信息,查封状态,查封情况
+mortgagee:抵押权人
+mortgage_no:抵押证号
+text:抵押情况
+land_situation:土地情况
+nature_of_land:土地性质
+land_use_right:土地使用权取得方式(土地使用性质),权属来源
+land_use_period:使用期限
+lease:租赁信息
